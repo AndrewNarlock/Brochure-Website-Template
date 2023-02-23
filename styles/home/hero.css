@@ -1,6 +1,5 @@
 .hero-image {
     width: 100%;
-    border: 1px solid green;
     height: 95%;
     display: flex;
     justify-content: center;
@@ -52,5 +51,12 @@
 @media (max-width: 1000px) {
     .hero-message-wrapper {
         width: 85%;
+    }
+}
+
+@media (max-height: 440px) {
+    .hero-image {
+        height: fit-content;
+        padding: 10% 0px 10% 0px;
     }
 }
