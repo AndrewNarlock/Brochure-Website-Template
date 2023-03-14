@@ -58,11 +58,9 @@
 @media (max-width: 1200px) {
     .pages-content-message-wrapper {
         width: 85%;
-    }
-
-    .pages-content-message-wrapper {
         margin: 10% 0px 10% 0px;
     }
+
 }
 
 @media (max-width: 550px) {
