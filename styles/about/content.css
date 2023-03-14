@@ -39,11 +39,7 @@
 
 @media (max-width: 1200px) {
     .about-message-wrapper {
-        width: 85%;
-
-    }
-
-    .about-message-wrapper {
         margin: 10% 0px 10% 0px;
+        width: 85%;
     }
 }
